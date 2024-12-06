@@ -1,4 +1,4 @@
-# 🐦 *"Requiescat in pace, bugs."*  
+# 🦅 *"Requiescat in pace, bugs."*  
 **Welcome, Wanderer, to the Codex of Altairian7.**  
 
 I move with stealth and strike with precision—except my blade is **code**, and my targets are **bugs**, **inefficiencies**, and outdated systems. I’m a modern-day assassin, carving my way through the realms of **blockchain**, **machine learning**, and **backend development**.  
@@ -44,9 +44,9 @@ You won’t find fancy frontends here. My world lives in the **backend**, where 
 ---
 
 ## 🏹 Get in Touch (if you dare):  
-- **LinkedIn**: [Insert Link]  
-- **Twitter**: [@InsertHandle]  
-- **GitHub**: [Altairian7](https://github.com/Altairian7)  
+- **LinkedIn**: [@Altairian497](https://www.linkedin.com/in/altairian497)
+- **Twitter**: [@Ezio497](https://x.com/Ezio497)
+- **GitHub**: [@Altairian7](https://github.com/Altairian7)  
 
 ---
 
