@@ -23,30 +23,51 @@ Like an Assassin’s toolkit, my tech stack is sharp and effective:
 
 ---
 
+## 📊 The Guild Records (Stats & Graphs)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Altairian7&show_icons=true&theme=gruvbox&count_private=true" alt="Altairian7's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altairian7&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Altairian7&theme=gruvbox" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Altairian7&theme=gruvbox&margin-w=10&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
 ## 🛡️ My Campaigns  
-- **Finalist in Hackathons**: Outwitted hundreds of teams to leave my mark in the battlefields of innovation.  
-- **Blockchain Sorcery**: Forging decentralized solutions with **smart contracts** and **Web3.js**.  
-- **Machine Learning Initiatives**: Designing algorithms that adapt and conquer.  
-- **API Architect**: Ensuring the backbone of every project is resilient and elegant.  
+- 🏆 **Finalist in Hackathons**: Outwitted hundreds of teams to leave my mark in the battlefields of innovation.  
+- 🔗 **Blockchain Sorcery**: Forging decentralized solutions with **smart contracts** and **Web3.js**.  
+- 🧠 **Machine Learning Initiatives**: Designing algorithms that adapt and conquer.  
+- 🧱 **API Architect**: Ensuring the backbone of every project is resilient and elegant.  
 
 ---
 
 ## 🗺️ The Journey Ahead  
-- **Blockchain Dominance**: Taking my Ethereum and Solidity skills to the master level.  
-- **AI Overlord**: Merging machine learning into blockchain for futuristic solutions.  
-- **Open Source Brotherhood**: Contributing to projects that empower the next generation of developers.  
+- 👑 **Blockchain Dominance**: Taking my Ethereum and Solidity skills to the master level.  
+- 🤖 **AI Overlord**: Merging machine learning into blockchain for futuristic solutions.  
+- 🌍 **Open Source Brotherhood**: Contributing to projects that empower the next generation of developers.  
 
 ---
 
 ## ⚔️ Words of Warning  
-You won’t find fancy frontends here. My world lives in the **backend**, where real battles are fought. If you’re looking for pretty UI/UX, “*You’re in the wrong memory sequence.*”  
+You won’t find fancy frontends here. My world lives in the **backend**, where real battles are fought. If you’re looking for pretty UI/UX,  
+> “*You’re in the wrong memory sequence.*”  
 
 ---
 
 ## 🏹 Get in Touch (if you dare):  
-- **LinkedIn**: [@Altairian497](https://www.linkedin.com/in/altairian497)
-- **Twitter**: [@Ezio497](https://x.com/Ezio497)
-- **GitHub**: [@Altairian7](https://github.com/Altairian7)  
+- 🕵️‍♂️ **LinkedIn**: [@Altairian497](https://www.linkedin.com/in/altairian497)  
+- 🦅 **Twitter**: [@Ezio497](https://x.com/Ezio497)  
+- 💻 **GitHub**: [@Altairian7](https://github.com/Altairian7)  
 
 ---
 
